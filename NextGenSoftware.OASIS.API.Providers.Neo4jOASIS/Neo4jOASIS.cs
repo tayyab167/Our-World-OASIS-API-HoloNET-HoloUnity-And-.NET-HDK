@@ -366,8 +366,7 @@ namespace NextGenSoftware.OASIS.API.Providers.Neo4jOASIS
             throw new NotImplementedException();
         }
 
-<<<<<<< HEAD
-=======
+
         public override IAvatarDetail LoadAvatarDetail(Guid id)
         {
             throw new NotImplementedException();
@@ -417,6 +416,5 @@ namespace NextGenSoftware.OASIS.API.Providers.Neo4jOASIS
         {
             throw new NotImplementedException();
         }
->>>>>>> 0720ddb46358a688a8b39374bb85e43d541daae1
     }
 }
